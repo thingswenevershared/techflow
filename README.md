@@ -1,2 +1,2 @@
-TechFlow es una aplicación web de gestión de tareas colaborativas, diseñada con enfoque ágil y pensada para estudiantes, equipos pequeños y profesionales. 
-Permitirá crear, asignar, organizar y seguir tareas mediante tableros estilo Kanban, listas personalizadas, trabajo colaborativo y notificaciones automáticas
+DataVault es una plataforma web diseñada para almacenar, preservar y organizar archivos digitales personales o institucionales de forma segura, eficiente y a largo plazo. Funciona como un archivo digital interactivo donde los usuarios pueden cargar documentos, fotos, videos, audios y otros contenidos, asegurando privacidad, disponibilidad y respaldo continuo.
+
